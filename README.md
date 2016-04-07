@@ -1,2 +1,5 @@
 # hello-world
-it is optional
+
+Hi guys,
+
+I am Alex ,a human who like eating noodles.
